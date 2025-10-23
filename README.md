@@ -4,7 +4,7 @@ Hello!👋🏻 My name is **Theeraphat Jantasuree**.
 I am from Suranaree University Of Technology taking BS Computer Engineering. 🏫
 
 **Tools:**  
-[<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.35_icon.svg' alt='vscode' height='40'>](https://code.visualstudio.com/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://code.visualstudio.com/) 
 [<img src='https://raw.githubusercontent.com/github/explore/main/topics/html/html.png' alt='html' height='40'>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src='https://raw.githubusercontent.com/github/explore/main/topics/css/css.png' alt='css' height='40'>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src='https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png' alt='typescript' height='40'>](https://www.typescriptlang.org/)
